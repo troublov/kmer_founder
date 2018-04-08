@@ -29,16 +29,18 @@ Spectrums for k=17 are presented in the current repository.
 
 In case of k=17 genome size estimated values were:
 a) without quality filter
+Genome size without noise cut off 2,82 Mb
+Corrected genome size with notoriuous noise cutted off 2,11 Mb
 
 b)with quality filter (q>20)
-Genome size without noise cut off: about 2,8 Mb
-Corrected genome size with notoriuous noise cutted off 2,1 Mb
+Genome size without noise cut off: about 2,80 Mb
+Corrected genome size with notoriuous noise cutted off 2,09 Mb
 
 In case of k=31 with quality filter (q>20) the following values were obtained:
 Genome size without noise cut off 3,2 Mb
 Corrected genome size with notoriuous noise cutted off 2,0 Mb
 
-So it can be seen that obtained estimations of genome size are quite small and considering it we can assume that it was some prokaryotic organism sequenced.
+So it can be seen that obtained estimations of genome size are quite small and considering it we can assume that it was some prokaryotic organism sequenced. May be it's a *P. ubique* which has the smallest genome between free living bacteria.
 
 
 
