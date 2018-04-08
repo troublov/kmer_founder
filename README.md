@@ -1,3 +1,5 @@
+## Kmer_fouder
+
 "kmer_founder" is a small Python script that searches for the most over~~dosed~~represented kmers in a .fasta file.
 kmer class has the following attributes:
 1. sequence
@@ -9,7 +11,7 @@ and the following methods:
 2. add new coordinate
 3. show information about itself
 
-
+## Kmer spectrum
 
 "kmer_spectrum" is small python script that analyzes fastq file and builds kmer spectrum of defined k.
 Special class "kmer_spectrum_builder" does all the operations of spectrum building step by step. It has the following methods:
